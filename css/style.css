@@ -317,13 +317,14 @@ body {
     position: absolute;
     left: 30px;
     top: 50%;
+    transform:translateY(-50%);
 }
 
 #pascucci-wrap #top-wrap .btn-wrap .right-btn {
     position: absolute;
     right: 40px;
     top: 50%;
-
+transform:translateY(-50%);
 }
 
 
